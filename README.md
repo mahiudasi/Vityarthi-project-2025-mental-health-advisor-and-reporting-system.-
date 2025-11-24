@@ -44,7 +44,7 @@ the objective of this project in to improve an individual’s mental health and 
 
 
 * How to run  
-  git clone  [ <https://github.com/mahiudasi/Vityarthi-project-2025-mental-health-advisor-and-reporting-system.git> ]
+  git clone  [ <https://github.com/mahiudasi/Vityarthi-project-2025-mental-health-advisor-and-reporting-system.-> ]
 
 
 
