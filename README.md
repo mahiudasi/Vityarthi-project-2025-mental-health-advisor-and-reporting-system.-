@@ -7,7 +7,8 @@
  features of the project  
  tools used
  steps to run the project  
-  required screenshots   
+  required screenshots
+  how to run   
 * Project Overview
 
   
@@ -39,7 +40,11 @@ the objective of this project in to improve an individual’s mental health and 
 
   *  <img width="961" height="583" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/1ca6251c-83c7-41db-bd12-b0427d8f6124" />
  
-   * <img width="621" height="704" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/e6884184-8c50-49cb-80a6-04e638f61168" />  
+   * <img width="621" height="704" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/e6884184-8c50-49cb-80a6-04e638f61168" />
+
+
+* How to run  
+  git clone  [ <https://github.com/mahiudasi/Vityarthi-project-2025-mental-health-advisor-and-reporting-system.git> ]
 
 
 
